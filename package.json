@@ -1,0 +1,15 @@
+{
+  "name": "myfirstelectronapp",
+  "version": "1.0.0",
+  "description": "My first electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Pradeep",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^17.1.2",
+    "mysql": "^2.18.1"
+  }
+}
